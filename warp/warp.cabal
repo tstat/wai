@@ -189,7 +189,12 @@ Benchmark parser
                   , criterion
                   , http-types
                   , network
-                  , network
+                  , containers
+                  , auto-update
+                  , http-date
+                  , hashable
+                  , unix
+                  , unix-compat
 
 Source-Repository head
   Type:     git
